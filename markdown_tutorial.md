@@ -28,3 +28,23 @@ _My poem_ by Michael Brewer
 ## LISTS
 
 Unordered
+
+* Item 1
+* Item 2
+	* Item 2a
+	* Item 2b
+
+Ordered
+1. Item 1
+2. Item 2
+3. Item 3
+	* Item 3a
+	* Item 3b
+
+
+## IMAGES
+
+![ECU Logo](https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/East_Carolina_Pirates_logo.svg/175px-East_Carolina_Pirates_logo.svg.png)
+
+![Idk](C:\Users\morenosh20\Pictures\Logo\csilogo.png)
+Format: \![Alt text](url)
