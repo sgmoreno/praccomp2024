@@ -18,6 +18,8 @@ __This text is also bolded__
 
 _You **can** combine them..._
 
+~This something...~
+
 ## BLOCKQUOTES 
 
 _My poem_ by Michael Brewer
