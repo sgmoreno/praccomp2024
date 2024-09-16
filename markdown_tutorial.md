@@ -48,3 +48,14 @@ Ordered
 
 ![Idk](C:\Users\morenosh20\Pictures\Logo\csilogo.png)
 Format: \![Alt text](url)
+
+
+## LINKS
+
+https://brewerlab.net
+
+[Some alt text info about an image](https://upload.wikimedia.org/wikipedia/commons/2/2e/Coral_Outcrop_Flynn_Reef.jpg)
+
+## BACKSLASH ESCAPES
+
+\*Literal asterisks\*
